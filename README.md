@@ -18,6 +18,8 @@ Welcome to the repository for my personal webpage. This project showcases my por
 ## Overview
 
 This personal webpage highlights my journey from pastoral care to tech innovation. It includes my bio, skills, education, and work experience. The site is containerized using Docker to ensure consistency and ease of deployment.
+The docker container was included to showcase my ability to use Docker.
+If you want to skip to simply viewing the page, please follow this link: https://leon-hub101.github.io/Personal-Webpage/
 
 ## Features
 
